@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DairyCalculator</string>
+    <string name="snfCalculator">Soluble Natural Fats(SNF)</string>
+    <string name="smpCalculator">SMP Addition</string>
+    <string name="creamAdditionCalculator">Cream Addition</string>
+    <string name="creamProductionCalculator">Cream Production</string>
+    <string name="butterProductionCalculator">Butter Production</string>
+    <string name="skimmedMilkProductionCalculator">Skimmed Milk Production</string>
+    <string name="smpProductionCalculator">SMP Production</string>
+    <string name="butterCalculator">Butter Production</string>
+    <string name="calculate">Calculate</string>
+    <string name="fat">Fat</string>
+    <string name="creamFat">Cream Fat</string>
+    <string name="fatOfMilk">Fat of Milk</string>
+    <string name="expectedButterFat">Expected Butter Fat</string>
+    <string name="creamFatToBeMaintained">Cream Fat to be Maintained</string>
+
+    <string name="lr">Lactometer Reading</string>
+    <string name="milkLiter">Milk(L)</string>
+    <string name="creamKg">Cream(Kg)</string>
+    <string name="requiredSNF">Required SNF</string>
+    <string name="existingSNF">Existing SNF</string>
+    <string name="SNFSMP">SNF of SMP</string>
+    <string name="SNFMilk">SNF of Milk</string>
+    <string name="temp">Temprature &#xb0;F</string>
+</resources>
